@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nu-Mandoo
+- 👋 Hi, I’m @Nu-Mandoo, just call me Doo
 - 👀 I’m interested in learning coding and programming atm
-- 🌱 I’m currently learning C and plan to move on to C++ and Python
+- 🌱 I’m currently learning python and solidity with the end goal of smart contract auditing 
 - 💞️ I’m looking to collaborate on beginner friendly repositories
 
 <!---
